@@ -1,5 +1,5 @@
 # Terraform-Project
-# In this Project I was able to deploy a webserver in AWS automated with Terraform.  
+In this Project I was able to deploy a webserver in AWS automated with Terraform.  
 
 # 1.Created a VPC
 
@@ -13,7 +13,7 @@
 
 # 6.Created Security Group to allow ports 22,80,443 (SSH, HTTP, HTTPS)
 
-# .Created a network interface with an ip in the subnet that was created in step 4
+# 7.Created a network interface with an ip in the subnet that was created in step 4
 
 # 8.Assigned an elastic IP to the network interfacecreated in step 7
 
